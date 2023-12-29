@@ -1,6 +1,6 @@
 # Reddit Video Generator
 Base/example code made for the fully automatic uploading of Reddit videos on YouTube.
-guiMain.py is the main file
+guiMain.py is the main file.
 
 # Setup:
 You won't be able to run this right off the bat. You need to install the necessary APIs and pip install the packages. 
